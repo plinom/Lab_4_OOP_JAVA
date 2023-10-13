@@ -1,8 +1,6 @@
 package lotr;
 
-import com.sun.tools.javac.Main;
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
 abstract public class MainCharacter {
